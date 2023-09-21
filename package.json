@@ -1,0 +1,16 @@
+{
+  "name": "boolean-operators-exercise",
+  "version": "1.0.0",
+  "description": "![programmer joke: !false (it's funny because it's true)](https://storage.googleapis.com/replit/images/1569512326719_407dad6e2667dc94c76a8c0bcc18e25d.jpeg)",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "scripts": {
+    "test": "jest --watch-all"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
