@@ -58,6 +58,18 @@ function notAnElementarySchoolAdministrator(level, role) {
   return level !== 'elementary' || role !== 'admin'
 }
 
+// let isBoth = isAdmin(role) && isElementary(schoolLevel)
+// return !isBoth
+
+// return !(isadmin(role && isElementary(schoolLevel))
+
+// return !isAdmin(role || !isElementary(schoolLevel)
+
+// let isNotElementary = schoolLevel !== 'elementary'
+// let isNotAdmin = role !== 'admin'
+// let isNotEither = isNotElementary || isNotAdmin
+// return isNotEither
+
 /********************************************************************************************
  * CODE BELOW IS FOR EXPORTING THE VARIABLES AND FUNCTIONS YOU WROTE ABOVE TO MAIN.TEST.JS. *
  *                              THIS IS FOR INTERNAL USE ONLY                               *
